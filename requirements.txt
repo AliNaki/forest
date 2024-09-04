@@ -1,4 +1,4 @@
-pickle
+
 scikit-learn
 Flask==2.0.1
 Werkzeug==2.2.2
